@@ -8,5 +8,5 @@
 6. Play around with the output options commented out at the end
 
 **Example**  
-`rate 5 &` --> run this test for 5 min in the background.
+`rate 5 &` --> run this test for 5 min in the background.  
 `rate 2` --> run this test for 2 minuts (terminal will be cooupied).
